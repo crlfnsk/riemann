@@ -1,8 +1,7 @@
-module integrator
+module io
     use parameter
-    use io
     implicit none
     
 contains
     
-end module integrator
+end module io
